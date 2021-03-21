@@ -1,5 +1,4 @@
 # Author: Fred Amouzgar Mar/2020
-
 import numpy as np
 from time import sleep
 from IPython.display import clear_output

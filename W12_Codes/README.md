@@ -1,4 +1,4 @@
-# Play CartPoleFile
+# Play CartPole
 
 OpenAI Gym's CartPole is the environment we work with this week.
 

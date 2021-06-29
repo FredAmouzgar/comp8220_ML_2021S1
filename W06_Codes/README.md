@@ -22,3 +22,11 @@ Instruction:
 
 1. Install OpenAI Gym: CMD> pip install gym
 2. Open a command line and run the attached file: CMD> python play_taxi.py
+
+# Multi-Armed Bandit Demo
+
+Instruction:
+
+Clone the repository (or download it): CMD> git clone https://github.com/puzzler10/multi_armed_bandit.git
+Open the index.html file.
+Play with controls and see how it affects finding the optimal lever and the average cumulative reward.

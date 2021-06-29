@@ -25,4 +25,4 @@ OpenAI Gym's MountainCar
 
 # How to run Jupyter notebooks
 
-We highly recommend using [Google Colab](colab.research.google.com). Don't forget to switch to GPU runtime when training your DQN agent. All notebooks are self-sufficient, and will install/download all the necessary components.
+We highly recommend using [Google Colab](http://colab.research.google.com). Don't forget to switch to GPU runtime when training your DQN agent. All notebooks are self-sufficient, and will install/download all the necessary components.

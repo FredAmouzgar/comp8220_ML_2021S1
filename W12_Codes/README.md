@@ -22,3 +22,7 @@ OpenAI Gym's MountainCar
 
 1. Open a command line and run the attached file: CMD> python play_MountainCar.py
 2. Keys: "0": Accelarate left, "1": Neutral, "2": Accelarate Right
+
+# How to run Jupyter notebooks
+
+We highly recommend using [Google Colab](colab.research.google.com). Don't forget to switch to GPU runtime when training your DQN agent. All notebooks are self-sufficient, and will install/download all the necessary components.

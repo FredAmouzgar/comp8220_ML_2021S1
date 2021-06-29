@@ -30,3 +30,7 @@ Instruction:
 Clone the repository (or download it): CMD> git clone https://github.com/puzzler10/multi_armed_bandit.git
 Open the index.html file.
 Play with controls and see how it affects finding the optimal lever and the average cumulative reward.
+
+# How to run Jupyter notebooks
+
+We highly recommend using [Google Colab](http://colab.research.google.com). All notebooks are self-sufficient, and will install/download all the necessary components.

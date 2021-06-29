@@ -12,7 +12,7 @@ Boss Level (2021)
 Find more here.
 
 ## The MDP Loop
-[!MDP Loop](https://raw.githubusercontent.com/FredAmouzgar/comp8220_ML_2021S1/main/images/MDP_loop.jpeg)
+![MDP Loop](https://raw.githubusercontent.com/FredAmouzgar/comp8220_ML_2021S1/main/images/MDP_loop.jpeg)
 
 # Play Taxi
 

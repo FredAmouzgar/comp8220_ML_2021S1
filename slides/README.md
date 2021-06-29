@@ -31,6 +31,6 @@ Chapter 11: Off-policy Methods with Approximation: 11.3
 Chapter 13: Policy Gradient Methods: 13.1, 13.2, 13.3, 13.4, 13.5
 
 <hr />
-DQN Paper: [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)
+DQN Paper: <a href="https://www.nature.com/articles/nature14236">Human-level control through deep reinforcement learning</a>
 
-DDPG Paper: [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
+DDPG Paper: <a href="https://arxiv.org/abs/1509.02971">Continuous control with deep reinforcement learning</a>

@@ -8,8 +8,8 @@ You can find the lectures on the [Complexity-in-Action Lab](https://complexity-i
 
 ### Week 6:
 
-[![week 6](https://raw.githubusercontent.com/FredAmouzgar/comp8220_ML_2021S1/main/images/w06_YT.png)](https://www.youtube.com/channel/UCjFm74Qt7qIr_O0KkvdlW-Q)
+[![week 6](https://raw.githubusercontent.com/FredAmouzgar/comp8220_ML_2021S1/main/images/w06_YT.png)](https://youtu.be/mmDadFxDqjU)
 
 ### Week 12:
 
-[![week 12](https://raw.githubusercontent.com/FredAmouzgar/comp8220_ML_2021S1/main/images/w12_YT.png)](https://www.youtube.com/channel/UCjFm74Qt7qIr_O0KkvdlW-Q)
+[![week 12](https://raw.githubusercontent.com/FredAmouzgar/comp8220_ML_2021S1/main/images/w12_YT.png)](https://youtu.be/UNDfP79lut8)

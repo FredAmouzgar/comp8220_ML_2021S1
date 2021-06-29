@@ -1,5 +1,4 @@
 # Machine Learning Unit (COMP8220), 2021S1
-# Macquarie University, Department of Computing
 
 This repository has all the lectures and the practicals for week six and 12 of the machine learning course presented in the first semester of 2021 at the Department of Computing, Macquarie University ([COMP8220](https://unitguides.mq.edu.au/unit_offerings/137445/unit_guide)). It covers an introduction to classical and approximate reinforcement learning (RL). 
 
